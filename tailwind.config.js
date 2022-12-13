@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        secular: ['Secular\\ One', 'sans-serif'],
+        secular: ['Secular\ One', 'sans-serif'],
       }
     },
   },
