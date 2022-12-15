@@ -1030,4 +1030,8 @@ video {
   .lg\:pt-0 {
     padding-top: 0px;
   }
+
+  .lg\:pl-14 {
+    padding-left: 3.5rem;
+  }
 }
