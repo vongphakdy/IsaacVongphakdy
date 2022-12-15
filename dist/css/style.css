@@ -845,6 +845,11 @@ video {
   color: rgb(68 64 60 / var(--tw-text-opacity));
 }
 
+.hover\:text-stone-600:hover {
+  --tw-text-opacity: 1;
+  color: rgb(87 83 78 / var(--tw-text-opacity));
+}
+
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
